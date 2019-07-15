@@ -1,0 +1,1 @@
+This folder contains Jupyter Notebooks in which the data cleaning and statistical analysis has been done.
